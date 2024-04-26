@@ -34,7 +34,7 @@ public class T504 extends Application {
 
         Scene scene = new Scene(root, 300, 250);
 
-        primaryStage.setTitle("Number Guessing Game");
+        primaryStage.setTitle("Bolo, Princess Nicole T.");
         primaryStage.setScene(scene);
         primaryStage.show();
 
