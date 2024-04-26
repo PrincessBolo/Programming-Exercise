@@ -89,7 +89,7 @@ public class T505 extends Application {
 
         // add the scene to the stage, then configure the stage and make it visible
         stage.setScene(scene);
-        stage.setTitle("Calculator");
+        stage.setTitle("Bolo, Princess Nicole T.");
         stage.show();
     }
 
